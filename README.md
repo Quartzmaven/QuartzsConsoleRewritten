@@ -36,13 +36,12 @@ Playable! With the exception of LEMClientHelper being incompatible.
 
 ## Not what you were looking for?
 You can look for:
+- [Abyssal Nostalgia](https://modrinth.com/modpack/abyssal-nostalgia/versions) by Dr_01000111
+- [Console-idated](https://modrinth.com/modpack/console-idated) by N00B
 - [Quartz's Console](https://modrinth.com/modpack/quartzs-console) by Quartzmaven (me!)
 - [Legacy Console Experience](https://modrinth.com/modpack/legacy_console_experience) by MonFloMat
-- [Console-idated](https://modrinth.com/modpack/console-idated) by N00B
-- [Consolinia](https://www.planetminecraft.com/mod/consolinia/) by Lin Fox
-- [Legacy Continued](https://www.youtube.com/watch?v=LMAsXbq9ZRw) by AngeLz
-- [Abyssal Nostalgia](https://modrinth.com/modpack/abyssal-nostalgia/versions) by Dr_01000111
-- [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition/) by serpo, raamviot50, and karmel3
+- - [Legacy Continued](https://www.youtube.com/watch?v=LMAsXbq9ZRw) by AngeLz
+-  [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition/) by serpo, raamviot50, and karmel3
 - [Serpo's Console](https://modrinth.com/modpack/serpos-console) by serpo, raamviot50, and karmel3 
 
 **Shift and Sneak were also binded oppositely.**
