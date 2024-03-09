@@ -52,4 +52,4 @@ You can look for:
 ## Can I fork your modpack?
 Yes, you can! Make sure you credit me! You may need to include anyone from the list. 
 
-### I am no longer responsible for "most" issues related with the pack (e.g. Opaque Water).
+### I am no longer responsible for "most" issues related with the pack.
