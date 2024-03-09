@@ -40,8 +40,8 @@ You can look for:
 - [Console-idated](https://modrinth.com/modpack/console-idated) by N00B
 - [Quartz's Console](https://modrinth.com/modpack/quartzs-console) by Quartzmaven (me!)
 - [Legacy Console Experience](https://modrinth.com/modpack/legacy_console_experience) by MonFloMat
-- - [Legacy Continued](https://www.youtube.com/watch?v=LMAsXbq9ZRw) by AngeLz
--  [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition/) by serpo, raamviot50, and karmel3
+- [Legacy Continued](https://www.youtube.com/watch?v=LMAsXbq9ZRw) by AngeLz
+- [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition/) by serpo, raamviot50, and karmel3
 - [Serpo's Console](https://modrinth.com/modpack/serpos-console) by serpo, raamviot50, and karmel3 
 
 **Shift and Sneak were also binded oppositely.**
@@ -49,4 +49,4 @@ You can look for:
 ## Can I fork your modpack?
 Yes, you can! Make sure you credit me! You may need to include anyone from the list. 
 
-### I am no longer responsible for "most" issues related with the pack (e.g. Opaque Water).
+### I am no longer responsible for "most" issues related with the pack.
