@@ -14,7 +14,7 @@ Read [my guide](https://qconsoles-organization.gitbook.io/quartzs-console-wiki/i
 - [AgentMindStorm](https://www.youtube.com/channel/UC-ljddYkFdTQl-MVEaVvbuQ) - Creator of Console Aspects, and contributor for Legacy4J
 - [Bathtubfulloftoast](https://novassite.net/misc/Carrd/) - Website management, contributor
 - [DBTDerpbox](https://www.legacyminigames.xyz) - Website inspiration
-- steeve3822 - "Minecraft LCE if it's still updated" idea
+- [DanielMC101](https://github.com/DanielMC101) - "Minecraft LCE if it's still updated" idea
 - [LaffyTaffy](https://www.youtube.com/@Laffy_Taffy) - contributor
 - [N00B](https://github.com/S-N00B-1) - Despite this being a non-forked modpack, this is where the inspiration for QC takes place.
 - [Crackers0106](https://modrinth.com/user/Crackers0106) - Programmer Art+ [TU2 only]
