@@ -2,6 +2,8 @@
 
 # Experimental Controller support! No Steam Input needed!
 
+[[Download]](https://modrinth.com/modpack/quartzs-console-rewritten/)
+
 # What is this, again?
 Quartz's Console: Rewritten (formerly known as "Quartz's Console: Redesigned N' Remodernized") is a successor and rewrite to Quartz's Console, if Legacy was never discontinued. Thanks to the existance of Wily's Legacy4J mod, more updates will be received than it's predecessor. It still aims to balance old and new features to the game. 
 
