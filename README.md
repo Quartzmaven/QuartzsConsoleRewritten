@@ -7,12 +7,9 @@
 # What is this, again?
 Quartz's Console: Rewritten (formerly known as "Quartz's Console: Redesigned N' Remodernized") is a successor and rewrite to Quartz's Console, if Legacy was never discontinued. Thanks to the existance of Wily's Legacy4J mod, more updates will be received than it's predecessor. It still aims to balance old and new features to the game. 
 
-Compatible with PC, Linux, and Steam Deck. It's using lesser assets compared to the original.
+Compatible with PC, Linux, and Steam Deck.
 
 Read [my guide](https://qconsoles-organization.gitbook.io/quartzs-console-wiki/installation) on how to set it up!
-
-## Warnings
-1. **"TU"s don't act like actual updates like in Legacy. I RECOMMEND YOU TO UPDATE TO THE LATEST VERSION!**
 
 ## Credits
 - [Wilyicaro](https://github.com/Wilyicaro/Legacy-Minecraft) - for making this possible
@@ -26,7 +23,7 @@ Read [my guide](https://qconsoles-organization.gitbook.io/quartzs-console-wiki/i
 - [Leobaker202](https://modrinth.com/resourcepack/legacy-console-edition-visuals) - Gamma shading, and resources
 - [bddjr](https://modrinth.com/user/bddjr) - Old Villager Textures [TU2 only]
 - [OkuuRavenWings](https://www.planetminecraft.com/member/okuuravenwings/) - Pigman Textures [TU2 only]
-- [raamviot50](https://modrinth.com/modpack/consoleedition/) - contributor
+- [raamviot50](https://modrinth.com/user/raamviot50) - contributor
 
 ## LEM Closed Alpha support:
 Playable! With the exception of LEMClientHelper being incompatible.
