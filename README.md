@@ -18,10 +18,9 @@ Read [my guide](https://qconsoles-organization.gitbook.io/quartzs-console-wiki/i
 - [LaffyTaffy](https://www.youtube.com/@Laffy_Taffy) - contributor
 - [N00B](https://github.com/S-N00B-1) - Despite this being a non-forked modpack, this is where the inspiration for QC takes place.
 - [Crackers0106](https://modrinth.com/user/Crackers0106) - Programmer Art+ [TU2 only]
-- [Leobaker202](https://modrinth.com/resourcepack/legacy-console-edition-visuals) - Gamma shading, and resources
 - [bddjr](https://modrinth.com/user/bddjr) - Old Villager Textures [TU2 only]
 - [OkuuRavenWings](https://www.planetminecraft.com/member/okuuravenwings/) - Pigman Textures [TU2 only]
-- [raamviot50](https://modrinth.com/user/raamviot50) - Contributor, Github Collaborator
+- [omoso](https://modrinth.com/user/omoso) - Contributor, Github Collaborator
 
 ## LEM Closed Alpha support:
 Playable! With the exception of LEMClientHelper being incompatible.
@@ -38,15 +37,13 @@ Playable! With the exception of LEMClientHelper being incompatible.
 You can look for:
 - [Abyssal Nostalgia](https://modrinth.com/modpack/abyssal-nostalgia/versions) by Dr_01000111
 - [Console-idated](https://modrinth.com/modpack/console-idated) by N00B
-- [Quartz's Console](https://modrinth.com/modpack/quartzs-console) by Quartzmaven (me!)
 - [Legacy Console Experience](https://modrinth.com/modpack/legacy_console_experience) by MonFloMat
 - [Legacy Continued](https://www.youtube.com/watch?v=LMAsXbq9ZRw) by AngeLz
-- [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition/) by serpo, raamviot50, and karmel3
-- [Serpo's Console](https://modrinth.com/modpack/serpos-console) by serpo, raamviot50, and karmel3 
+- [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition/) by omoso, serpo, and karmel3
+- - [Quartz's Console](https://modrinth.com/modpack/quartzs-console) by Quartzmaven (me!)
+- [Serpo's Console](https://modrinth.com/modpack/serpos-console) by omoso, serpo and karmel3 
 
 **Shift and Sneak were also binded oppositely.**
 
 ## Can I fork your modpack?
 Yes, you can! Make sure you credit me! You may need to include anyone from the list. 
-
-### I am no longer responsible for "most" issues related with the pack.
