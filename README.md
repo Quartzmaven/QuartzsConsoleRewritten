@@ -40,7 +40,7 @@ You can look for:
 - [Legacy Console Experience](https://modrinth.com/modpack/legacy_console_experience) by MonFloMat
 - [Legacy Continued](https://www.youtube.com/watch?v=LMAsXbq9ZRw) by AngeLz
 - [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition/) by omoso, serpo, and karmel3
-- - [Quartz's Console](https://modrinth.com/modpack/quartzs-console) by Quartzmaven (me!)
+- [Quartz's Console](https://modrinth.com/modpack/quartzs-console) by Quartzmaven (me!)
 - [Serpo's Console](https://modrinth.com/modpack/serpos-console) by omoso, serpo and karmel3 
 
 **Shift and Sneak were also binded oppositely.**
