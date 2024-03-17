@@ -39,9 +39,9 @@ You can look for:
 - [Console-idated](https://modrinth.com/modpack/console-idated) by N00B
 - [Legacy Console Experience](https://modrinth.com/modpack/legacy_console_experience) by MonFloMat
 - [Legacy Continued](https://www.youtube.com/watch?v=LMAsXbq9ZRw) by AngeLz
-- [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition/) by omoso, serpo, and karmel3
+- [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition/) by omoso and serpo
 - [Quartz's Console](https://modrinth.com/modpack/quartzs-console) by Quartzmaven (me!)
-- [Serpo's Console](https://modrinth.com/modpack/serpos-console) by omoso, serpo and karmel3 
+- [Serpo's Console](https://modrinth.com/modpack/serpos-console) by omoso and serpo
 
 **Shift and Sneak were also binded oppositely.**
 
