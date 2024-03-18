@@ -21,6 +21,7 @@ Read [my guide](https://qconsoles-organization.gitbook.io/quartzs-console-wiki/i
 - [bddjr](https://modrinth.com/user/bddjr) - Old Villager Textures [TU2 only]
 - [OkuuRavenWings](https://www.planetminecraft.com/member/okuuravenwings/) - Pigman Textures [TU2 only]
 - [omoso](https://modrinth.com/user/omoso) - Contributor, Github Collaborator
+- Several parities from [Serpo's Console](https://modrinth.com/modpack/serpos-console) [Created by omoso, serpo and Theorem.]
 
 ## LEM Closed Alpha support:
 Playable! With the exception of LEMClientHelper being incompatible.
