@@ -1,3 +1,6 @@
+Closed down again, in favor of Serpo's Console.
+https://modrinth.com/modpack/serpos-console
+
 ![QCR logo](https://cdn.modrinth.com/data/cached_images/e7fed9c4d42fa2b831abcad03b2a9f1440efc416.png)
 
 [[Download]](https://modrinth.com/modpack/quartzs-console-rewritten/)
